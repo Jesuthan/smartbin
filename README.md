@@ -39,5 +39,5 @@ The **IoT-Based Smart Dustbin Management System** is an innovative solution desi
 ### 📌 Contribute & Support  
 Feel free to fork this repository, suggest improvements, or report issues! 💡  
 
-💻 Developed with 💙 by   University of Jaffna (Computing and Electical Students0
+💻 Developed with 💙 by   University of Jaffna (Computing and Electical Students)
 
