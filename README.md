@@ -21,7 +21,7 @@ The **IoT-Based Smart Dustbin Management System** is an innovative solution desi
 - **Sensors:** Ultrasonic sensor for waste detection, IR Sensor.  
 - **Communication Module:** Wi-Fi, GSM (SIM800L).  
 - **Power Supply:** Battery-powered or direct connection with voltage regulation.  
-- **Software Tools:** Arduino IDE for programming, cloud platforms for data visualization.  
+- **Software Tools:** ESP32 for programming, cloud platforms for data visualization.  
 
 ## 🔧 How It Works  
 1. **Ultrasonic sensor** continuously measures the waste level.  
