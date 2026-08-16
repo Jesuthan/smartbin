@@ -14,7 +14,7 @@ SoftwareSerial gsmSerial(GSM_RX_PIN, GSM_TX_PIN);
 // BMP180 sensor
 Adafruit_BMP085 bmp;
 
-const char phoneNumber[] = "+94771156259"; // Replace with your phone number
+const char phoneNumber[] = "+00000000000"; // Replace with your phone number
 
 void setup() {
   Serial.begin(115200);

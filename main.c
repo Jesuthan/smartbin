@@ -26,8 +26,8 @@
 #define GPS_BAUD_RATE         9600
 
 // Wi-Fi Configuration
-#define WIFI_SSID             "Meru"
-#define WIFI_PASS             "987654321"
+#define WIFI_SSID             "YOUR_WIFI_SSID"
+#define WIFI_PASS             "YOUR_WIFI_PASSWORD"
 #define WIFI_CONNECTED_BIT    BIT0
 #define WIFI_FAIL_BIT         BIT1
 #define WIFI_MAXIMUM_RETRY    5

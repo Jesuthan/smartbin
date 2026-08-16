@@ -1,0 +1,17 @@
+# ESP-IDF / Arduino build artifacts
+build/
+sdkconfig
+sdkconfig.old
+*.bin
+*.elf
+*.map
+
+# Secrets - never commit real credentials
+secrets.h
+credentials.h
+.env
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
